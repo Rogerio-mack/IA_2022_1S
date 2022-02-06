@@ -26,7 +26,7 @@ rogerio.oliveira@mackenzie.br
 
 <br />
 
-## Solução dos Laboratórios
+## Solução dos Laboratórios EAD
 
 [Solução dos Laboratórios](https://github.com/Rogerio-mack/TIC_2022_1S/tree/main/solucoes_lab) *As soluções parciais são postadas à medida que encerram os prazos de entrega*
 
