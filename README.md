@@ -94,29 +94,35 @@ rogerio.oliveira@mackenzie.br
 25/04 [Regras de Associação](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T13_AssociationRules.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T13_AssociationRules_Lab.ipynb)
 
+[Tópico Alternativo: PCA] 
+
 02/05 [Sistemas de Recomendação](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T16_Recommentadion_Systems.ipynb) | [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T16_Recommentadion_Systems_Lab.ipynb)
+
+[Tópico Alternativo: SVM] 
 
 09/05 [Introdução às Redes Neurais](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T17_Redes_Neurais.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T17_Redes_Neurais_Lab.ipynb)
 
 16/05 [Trabalhando com Textos NLP](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T19_NLP.ipynb) | [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/T17_NLP_Lab.ipynb)
 
+[Tópico Alternativo: Outros Paradigmas de IA] 
+
 24/05 **AVALIAÇÃO INTERMEDIÁRIA II**
 
 30/05 **Projetos**
 
-13/06 **SUB** *14/06, Ver no Moodle* 
+13/06 **SUB** *13/06, Ver no Moodle* 
 
-20/06 **PROVA FINAL** *21/06, Ver no Moodle*
+20/06 **PROVA FINAL** *20/06, Ver no Moodle*
 
 
 <br />
 
 ## Critério de Avaliação
 
-MI_1 = .4 N1 (Teoria e EAD) + .4 Exercicios 1 (Teoria e EAD) + .2 Projeto Integrado
+MI_1 = .4 N1 (Teoria e EAD) + .4 Exercicios 1 (Teoria e EAD) + .2 Projeto 
 
-MI_2 = .4 N2 (Teoria e EAD) + .4 Exercicios 2 (Teoria e EAD) + .2 Projeto Integrado
+MI_2 = .4 N2 (Teoria e EAD) + .4 Exercicios 2 (Teoria e EAD) + .2 Projeto  
 
 MF = .5 MI1 + .5 MI2 + partic (Avalia)
 
@@ -124,11 +130,7 @@ MF = .5 MI1 + .5 MI2 + partic (Avalia)
 
 ## Leituras 
 
-[CRISP_DM 1.0](https://www.the-modeling-agency.com/crisp-dm.pdf) (2000) (1o Bimestre)
-
-Fawcett, Tom & Provost, Foster. (2013). Data Science for Business. 1. Introduction: Data-Analytic Thinking (1o Bimestre)
-
-Martin Zinkevich. (2019) [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) (2o Bimestre)
+Martin Zinkevich. (2019) [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) 
 
 <br />
 
@@ -137,10 +139,6 @@ Martin Zinkevich. (2019) [Rules of Machine Learning: Best Practices for ML Engin
 <img src="https://jakevdp.github.io/PythonDataScienceHandbook/figures/PDSH-cover.png" width="100"/>
 
 [Book](https://jakevdp.github.io/PythonDataScienceHandbook/)
-
-<img src="https://learning.oreilly.com/library/cover/9781492041122/250w/" width="100"/>
-
-[Code e Exemplos](https://github.com/joelgrus/data-science-from-scratch)
 
 
 <img src="https://bookdown.org/tpinto_home/Regression-and-Classification/bca.png" width="100"/>
