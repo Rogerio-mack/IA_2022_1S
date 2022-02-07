@@ -34,7 +34,7 @@ rogerio.oliveira@mackenzie.br
 
 ## Programação Semanal
 
-07/02 [Introdução à Inteligência Artificial: conceito, história e paradigmas] | [Lab, Colab?] 
+07/02 [Introdução à Inteligência Artificial: conceito, história e paradigmas](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/IA_1.ipynb) | [Lab, Colab?] 
 
 > vídeo teoria | vídeo lab
 
