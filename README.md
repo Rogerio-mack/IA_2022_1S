@@ -36,11 +36,15 @@ rogerio.oliveira@mackenzie.br
 
 07/02 [Introdução à Inteligência Artificial: conceito, história e paradigmas](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/IA_1.ipynb) | [Lab, Colab?] 
 
-> vídeo teoria | vídeo lab
+> vídeo  
 
-14/02 [Python básico para o Aprendizado de Máquina] | [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T2_EDA_Lab.ipynb)
+14/02 [Python básico para o Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/Mack_Python_Introducao/blob/main/Python_1.ipynb) 
 
-> vídeo teoria | vídeo lab
+>> [Python_Cheat_Sheet pdf](https://github.com/Rogerio-mack/Analise-de-Dados/blob/main/Python%20Cheat%20Sheet.pdf)
+ |  [Python_Cheat_Sheet Notebook](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/Python_Cheat_Sheet.ipynb)
+ |  [(Complementar) Exercícios Resolvidos](https://github.com/Rogerio-mack/Introducao_Python_I/blob/main/README.md)
+
+> vídeo 
 
 >> [Complementar - Seleção e Organização de Dados com Pandas](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T2_Pandas.ipynb)
 
@@ -55,14 +59,14 @@ rogerio.oliveira@mackenzie.br
 
 21/02 [Exemplos de Aprendizado Supervisionado e Não Supervisionado] | [Lab]
 
-> vídeo teoria | vídeo lab
+> vídeo 
 
 28/02 **Carnaval**
 
 08/03 [Regressão Linear](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T4_Regressao_Linear.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T4_Regressao_Linear_Lab.ipynb)
 
-> vídeo teoria | vídeo lab
+> vídeo 
 
 14/03 **Início das Aulas Presenciais**
 
