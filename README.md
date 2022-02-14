@@ -46,17 +46,6 @@ rogerio.oliveira@mackenzie.br
 
 > vídeo 
 
->> [Complementar - Seleção e Organização de Dados com Pandas](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T2_Pandas.ipynb)
-
->> [Complementar - Visualização dos Dados com Matplotlib e Seaborn](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T2_Visualizacao.ipynb)
-
->> [Python_Cheat_Sheet pdf](https://github.com/Rogerio-mack/Analise-de-Dados/blob/main/Python%20Cheat%20Sheet.pdf)
- |  [Python_Cheat_Sheet Notebook](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/Python_Cheat_Sheet.ipynb)
-
->> [Pandas Cheat Sheet pdf](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
-
->> [Matplotlib Cheat Sheet png](https://github.com/matplotlib/cheatsheets/blob/master/handout-beginner.png)
-
 21/02 [Exemplos de Aprendizado Supervisionado e Não Supervisionado] | [Lab]
 
 > vídeo 
