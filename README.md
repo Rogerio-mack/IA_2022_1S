@@ -113,11 +113,16 @@ rogerio.oliveira@mackenzie.br
 
 ## Critério de Avaliação
 
-MI_1 = .4 N1 (Teoria e EAD) + .4 Exercicios 1 (Teoria e EAD) + .2 Projeto 
+N1 = .4 Atividade Avaliativa 1 + .4 Exercicios 1 + .2 Projeto
+N2 = .4 Atividade Avaliativa 2 + .4 Exercicios 2 + .2 Projeto
 
-MI_2 = .4 N2 (Teoria e EAD) + .4 Exercicios 2 (Teoria e EAD) + .2 Projeto  
+Nota Intermediária
+MI = .5 MI1 + .5 MI2 + partic (referente a Prova Integrada - Avalia)
 
-MF = .5 MI1 + .5 MI2 + partic (Avalia)
+## Critério de Aprovação
+
+CONFORME REGULAMENTO ACADÊMICO VIGENTE
+
 
 <br />
 
