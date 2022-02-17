@@ -36,7 +36,7 @@ rogerio.oliveira@mackenzie.br
 
 07/02 [Introdução à Inteligência Artificial: conceito, história e paradigmas](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/IA_1.ipynb) | [Lab, Colab?] 
 
-> vídeo  
+> [vídeo](http://meusite.mackenzie.br/rogerio/videos/IA_20220207.mp4) 
 
 14/02 [Python básico para o Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/Mack_Python_Introducao/blob/main/Python_1.ipynb) 
 
@@ -44,7 +44,7 @@ rogerio.oliveira@mackenzie.br
  |  [Python_Cheat_Sheet Notebook](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/Python_Cheat_Sheet.ipynb)
  |  [(Complementar) Exercícios Resolvidos](https://github.com/Rogerio-mack/Introducao_Python_I/blob/main/README.md)
 
-> vídeo 
+> [vídeo](http://meusite.mackenzie.br/rogerio/videos/IA_20220214.mp4) 
 
 21/02 [Exemplos de Aprendizado Supervisionado e Não Supervisionado] | [Lab]
 
