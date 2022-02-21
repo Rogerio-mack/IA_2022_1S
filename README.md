@@ -38,7 +38,7 @@ rogerio.oliveira@mackenzie.br
 
 > [vídeo](http://meusite.mackenzie.br/rogerio/videos/AI_Aula_20220207.mp4) 
 
-14/02 [Python básico para o Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/Mack_Python_Introducao/blob/main/Python_1.ipynb) 
+14/02 [Python básico para o Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/Python_1.ipynb) 
 
 >> [Python_Cheat_Sheet pdf](https://github.com/Rogerio-mack/Analise-de-Dados/blob/main/Python%20Cheat%20Sheet.pdf)
  |  [Python_Cheat_Sheet Notebook](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/Python_Cheat_Sheet.ipynb)
@@ -46,9 +46,15 @@ rogerio.oliveira@mackenzie.br
 
 > [vídeo](http://meusite.mackenzie.br/rogerio/videos/AI_Aula_20220214.mp4) 
 
-21/02 [Exemplos de Aprendizado Supervisionado e Não Supervisionado] | [Lab]
+21/02 [Python Pandas e Matplotlib](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/Python_2.ipynb) 
 
-> vídeo 
+>> [Visualização de Dados em Python (eBook)](http://meusite.mackenzie.br/rogerio/MyBook/_build/html/intro.html)
+
+> [Exercício Pandas I](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/A3_Pandas_I_Exerc.ipynb) *Responda ao questionário no Moodle*
+
+> [Exercício Pandas II](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/A3_Pandas_II_Exerc.ipynb) *Responda ao questionário no Moodle*
+
+> [vídeo](http://meusite.mackenzie.br/rogerio/videos/AI_Aula_20220221.mp4) 
 
 28/02 **Carnaval**
 
