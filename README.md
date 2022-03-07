@@ -58,8 +58,10 @@ rogerio.oliveira@mackenzie.br
 
 28/02 **Carnaval**
 
-08/03 [Regressão Linear](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T4_Regressao_Linear.ipynb) |
+07/03 [Regressão Linear](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T4_Regressao_Linear.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T4_Regressao_Linear_Lab.ipynb)
+
+[Aula](https://colab.research.google.com/drive/1HKFXU43-RXqR2iRfbM3Y73p4dC1_FNN1?usp=sharing)
 
 > vídeo 
 
