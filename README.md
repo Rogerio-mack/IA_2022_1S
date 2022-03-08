@@ -61,9 +61,7 @@ rogerio.oliveira@mackenzie.br
 07/03 [Regressão Linear](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T4_Regressao_Linear.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T4_Regressao_Linear_Lab.ipynb)
 
-[Aula](https://colab.research.google.com/drive/1HKFXU43-RXqR2iRfbM3Y73p4dC1_FNN1?usp=sharing)
-
-> vídeo 
+> [vídeo](http://meusite.mackenzie.br/rogerio/videos/AI_Aula_20220307.mp4) 
 
 14/03 **Início das Aulas Presenciais**
 
