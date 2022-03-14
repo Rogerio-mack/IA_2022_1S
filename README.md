@@ -58,51 +58,51 @@ rogerio.oliveira@mackenzie.br
 
 28/02 **Carnaval**
 
+07/03 **Início das Aulas Presenciais**
+
 07/03 [Regressão Linear](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T4_Regressao_Linear.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T4_Regressao_Linear_Lab.ipynb)
 
 > [vídeo](http://meusite.mackenzie.br/rogerio/videos/AI_Aula_20220307.mp4) 
 
-14/03 **Início das Aulas Presenciais**
-
-14/03 [Regressão Logística](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Regressao_Logistica.ipynb) | 
+21/03 [Regressão Logística](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Regressao_Logistica.ipynb) | 
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Regressao_Logistica_Lab.ipynb) 
 
 >> [Aprendizado Supervisionado: Classificação X Regressão](https://c3.ai/introduction-what-is-machine-learning/supervised-learning/)
 
 >> [Complementar - Diferenças Regressão Linear e Logística](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Compare_Regressao_Linear_e_Logistica.ipynb) *veja aqui também Conjuntos de Treinamento x Teste*
 
-21/03 [K-Vizinhos mais Próximos](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T7_Knn.ipynb) |
+28/03 [K-Vizinhos mais Próximos](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T7_Knn.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T7_Knn_Lab.ipynb)
 
-28/03 [Árvores de Decisão](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T8_Arvores_de_Decisao.ipynb) |
+04/04 [Árvores de Decisão](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T8_Arvores_de_Decisao.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T8_Arvores_de_Decisao_Lab.ipynb)
 
 >> Complementar [Esquema Geral de Classificação](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T10_Esquema_Geral_de_Classificacao.ipynb) | [Outros Modelos Supervisionados](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T10_Outros_Modelos_Sup.ipynb) 
 
-04/04 **AVALIAÇÃO INTERMEDIÁRIA I** (Semana FCI?)
+11/04 **AVALIAÇÃO INTERMEDIÁRIA I** (Semana FCI?)
 
-11/04 [Kmédias](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T11_Kmedias.ipynb) |
+18/04 [Kmédias](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T11_Kmedias.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T11_Kmedias_Lab.ipynb)
 
-18/04 [Clusterização Hierárquica](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T12_HCluster.ipynb) |
+25/04 [Clusterização Hierárquica](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T12_HCluster.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T12_HCluster_Lab.ipynb)
 
 >> Complementar [Exemplo Kmeans + HCluster](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/T12_EXTRA_kmeans_e_hcluster.ipynb)
 
-25/04 [Regras de Associação](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T13_AssociationRules.ipynb) |
+02/05 [Regras de Associação](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T13_AssociationRules.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T13_AssociationRules_Lab.ipynb)
 
 [Tópico Alternativo: PCA] 
 
-02/05 [Sistemas de Recomendação](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T16_Recommentadion_Systems.ipynb) | [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T16_Recommentadion_Systems_Lab.ipynb)
+09/05 [Sistemas de Recomendação](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T16_Recommentadion_Systems.ipynb) | [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T16_Recommentadion_Systems_Lab.ipynb)
 
 [Tópico Alternativo: SVM] 
 
-09/05 [Introdução às Redes Neurais](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T17_Redes_Neurais.ipynb) |
+16/05 [Introdução às Redes Neurais](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T17_Redes_Neurais.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T17_Redes_Neurais_Lab.ipynb)
 
-16/05 [Trabalhando com Textos NLP](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T19_NLP.ipynb) | [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/T17_NLP_Lab.ipynb)
+24/05 [Trabalhando com Textos NLP](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T19_NLP.ipynb) | [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/T17_NLP_Lab.ipynb)
 
 [Tópico Alternativo: Outros Paradigmas de IA] 
 
