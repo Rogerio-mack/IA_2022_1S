@@ -66,6 +66,8 @@ rogerio.oliveira@mackenzie.br
 
 14/03 [Lab](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/ML_Regressao_ex.ipynb)
 
+> [notebook da aula com soluções parciais](https://colab.research.google.com/drive/1bQtkKOgJJ8KVEh2-dpyF_skh-pOubheE?usp=sharing) | > [vídeo](http://meusite.mackenzie.br/rogerio/videos/AI_Aula_20220314.mp4) 
+
 21/03 [Regressão Logística](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Regressao_Logistica.ipynb) | 
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Regressao_Logistica_Lab.ipynb) 
 
