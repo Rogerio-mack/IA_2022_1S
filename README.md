@@ -71,11 +71,11 @@ rogerio.oliveira@mackenzie.br
 21/03 [Regressão Logística](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Regressao_Logistica.ipynb) | 
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Regressao_Logistica_Lab.ipynb) 
 
-21/03 **Importante** [Projeto N1](https://colab.research.google.com/github/Rogerio-mack/IA_2022_1S/blob/main/IA_Projeto_N1.ipynb)
-
 >> [Aprendizado Supervisionado: Classificação X Regressão](https://c3.ai/introduction-what-is-machine-learning/supervised-learning/)
 
 >> [Complementar - Diferenças Regressão Linear e Logística](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Compare_Regressao_Linear_e_Logistica.ipynb) *veja aqui também Conjuntos de Treinamento x Teste*
+
+21/03 **Importante** [Projeto N1](https://colab.research.google.com/github/Rogerio-mack/IA_2022_1S/blob/main/IA_Projeto_N1.ipynb)
 
 28/03 [K-Vizinhos mais Próximos](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T7_Knn.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T7_Knn_Lab.ipynb)
