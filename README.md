@@ -111,7 +111,7 @@ rogerio.oliveira@mackenzie.br
 
 23/05 **AVALIAÇÃO INTERMEDIÁRIA II**
 
-01/06 **Importante** [Projeto N2](https://colab.research.google.com/github/Rogerio-mack/IA_2022_1S/blob/main/IA_Projeto_N2.ipynb)
+30/05 **Importante** [Projeto N2](https://colab.research.google.com/github/Rogerio-mack/IA_2022_1S/blob/main/IA_Projeto_N2.ipynb)
 
 13/06 **SUB** *13/06, Ver no Moodle* 
 
