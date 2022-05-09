@@ -105,22 +105,14 @@ rogerio.oliveira@mackenzie.br
 09/05 [Regras de Associação](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T13_AssociationRules.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T13_AssociationRules_Lab.ipynb)
 
-[Tópico Alternativo: PCA] 
-
 16/05 [Sistemas de Recomendação](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T16_Recommentadion_Systems.ipynb) | [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T16_Recommentadion_Systems_Lab.ipynb)
 
-[Tópico Alternativo: SVM] 
-
-[Introdução às Redes Neurais](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T17_Redes_Neurais.ipynb) |
+16/05 [Introdução às Redes Neurais](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T17_Redes_Neurais.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T17_Redes_Neurais_Lab.ipynb)
 
-[Trabalhando com Textos NLP](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T19_NLP.ipynb) | [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/T17_NLP_Lab.ipynb)
+23/05 **AVALIAÇÃO INTERMEDIÁRIA II**
 
-[Tópico Alternativo: Outros Paradigmas de IA] 
-
-24/05 **AVALIAÇÃO INTERMEDIÁRIA II**
-
-30/05 **Projetos**
+01/06 **Importante** [Projeto N2](https://colab.research.google.com/github/Rogerio-mack/IA_2022_1S/blob/main/IA_Projeto_N2.ipynb)
 
 13/06 **SUB** *13/06, Ver no Moodle* 
 
