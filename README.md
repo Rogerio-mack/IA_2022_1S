@@ -109,7 +109,7 @@ rogerio.oliveira@mackenzie.br
 16/05 [Introdução às Redes Neurais](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T17_Redes_Neurais.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T17_Redes_Neurais_Lab.ipynb)
 
-23/05 **AVALIAÇÃO INTERMEDIÁRIA II**
+23/05 **AVALIAÇÃO INTERMEDIÁRIA II** *Atenção: Avaliação PRESENCIAL COM CONSULTA*
 
 30/05 **Importante** [Projeto N2](https://colab.research.google.com/github/Rogerio-mack/IA_2022_1S/blob/main/IA_Projeto_N2.ipynb)
 
